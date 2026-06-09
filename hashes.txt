@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heartbreak Hotel For Two
+
+This log tracks the cryptographic history and versioning for the song **Heartbreak Hotel For Two** (heartbreak-hotel-for-two).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T16:34:41.515089 | `v1` | `425335226b5e90f9ccff0ea1b580fdfe77ed11fd3247a4534ab0233974bd4866` | `93cf02846e7c28eab13e2cd4224b8f73d931add244ac43d7deb9c09ea15f2e88` | `2026-06-09_heartbreak-hotel-for-two-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
