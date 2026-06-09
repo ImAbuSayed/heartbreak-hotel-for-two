@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartbreak-hotel-for-two/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Heartbreak Hotel For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbreak-hotel-for-two/) |
+| **Get License** | [Commercial Licensing for Heartbreak Hotel For Two](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbreak-hotel-for-two/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2859)
 
 ---
 
